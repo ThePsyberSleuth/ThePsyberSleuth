@@ -1,12 +1,47 @@
-### ## Hey, Techies 😎
+# Hi Techies 👋
 
-- 👋 Hi, I’m @Fitzgerald E. Bowier.
+<div align="left">
+  <a href="https://twitter.com/Krypt0_Baby">
+    <img
+      src="https://img.shields.io/twitter/follow/krypt0_baby?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/krypt0-baby/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=krypt0-baby" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/krypt0-baby/krypt0-baby/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
+## I am Fitzgerald Emmanuel Bowier
+
 - 😄 Pronouns: He/Him
 - 💻 I'm a FullStack Web and Desktop Developer.
-- 👀 I’m interested in Information Systems Engineering(Ethical Hacking).
-- 🌱 I’m currently learning PHP. Flutter and .Net(C#, C++, VB, ASP, Angular).
+- 👨🏾‍🎓 Student at [Rauf Denktas University](https://www.rdu.edu.tr/en)
+- 👨🏾‍💻 Software Engineering Student
 - 💞️ I’m looking to collaborate on Web and Desktop Applications.
-- 📫 How to reach me Follow me on Instagram and Twitter @krypt0.baby.
+
+![Metrics](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/achievements.svg)
+
+[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
+
+
+
+
+
+
 <!--
 **krypt0-baby/krypt0-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +58,6 @@ Here are some ideas to get you started:
 
 ### KNOW MORE ABOUT ME>>>>
 
-<p align="center">
-<a href="https://app.daily.dev/Uncle_Kali"><img src="https://api.daily.dev/devcards/d8cd20a009e14313b0101a3ff086d36a.png?r=i2f" width="400" alt="Fitzgerald Emmanuel Bowier's Dev Card"/></a>
-</p>
 <br />
 <p align="center">
 <a href="https://github.com/krypt0-baby"><img title="krypt0-baby" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&theme=aura&layout=compact"></a>
