@@ -14,6 +14,7 @@
     />
   </a>
 
+
   <a href="https://api.daily.dev/get?r=krypt0-baby" target="_blank">
     <img
       width="256"
@@ -34,32 +35,7 @@
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=krypt0-baby&show_icons=true&include_all_commits=true&theme=ocean_dark&cache_seconds=3200")
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&theme=aura&layout=compact)
-
-
-
-
-
-
-
-<!--
-**krypt0-baby/krypt0-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-🔭 I’m currently working on ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-⚡ Fun fact: 
--->
-
-
-### KNOW MORE ABOUT ME>>>>
-
-
 <br />
 <p align="center">
-<a href="https://github.com/krypt0-baby"><img title="Krypt0 Baby" src="></a>
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&theme=aura&layout=compact)
 </p>
