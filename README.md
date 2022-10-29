@@ -29,7 +29,7 @@
 - 😄 Pronouns: He/Him
 - 🇱🇷  Nationality: Liberian
 - 💻 I'm a FullStack Web and Desktop Developer, Security Analyst.
-- 👨🏾‍🎓 Student at [Rauf Denktas University](https://www.rdu.edu.tr/en)
+- 👨🏾‍🎓 Student at [Rauf Denktas University](https://www.rdu.edu.tr)
 - 👨🏾‍💻 Software Engineering Student
 - 💞️ I’m looking to collaborate on Web and Desktop Applications.
 
