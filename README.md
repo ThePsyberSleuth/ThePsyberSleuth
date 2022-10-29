@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://github.com/krypt0-baby"><img title="Krypt0 Baby" src="https://github-readme-stats.vercel.app/api?username=krypt0-baby&show_icons=true&include_all_commits=true&theme=ocean_dark&cache_seconds=3200"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/krypt0-baby"><img title="krypt0-baby" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&layout=compact"></a>
+</p>
