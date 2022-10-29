@@ -31,11 +31,11 @@
 - 👨🏾‍💻 Software Engineering Student
 - 💞️ I’m looking to collaborate on Web and Desktop Applications.
 
-![Metrics](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/kryt0-baby/krypt0-baby/github-metrics/achievements.svg)
 
-[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=krypt0-baby&show_icons=true&include_all_commits=true&theme=ocean_dark&cache_seconds=3200")
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&theme=aura&layout=compact)
+
 
 
 
@@ -58,11 +58,8 @@ Here are some ideas to get you started:
 
 ### KNOW MORE ABOUT ME>>>>
 
+
 <br />
 <p align="center">
-<a href="https://github.com/krypt0-baby"><img title="krypt0-baby" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypt0-baby&theme=aura&layout=compact"></a>
-</p>
-<br />
-<p align="center">
-<a href="https://github.com/krypt0-baby"><img title="Krypt0 Baby" src="https://github-readme-stats.vercel.app/api?username=krypt0-baby&show_icons=true&include_all_commits=true&theme=ocean_dark&cache_seconds=3200"></a>
+<a href="https://github.com/krypt0-baby"><img title="Krypt0 Baby" src="></a>
 </p>
