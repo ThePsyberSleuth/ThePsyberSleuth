@@ -24,15 +24,6 @@
   </a>
 </div>
 
-## I am Fitzgerald Emmanuel Bowier
-
-- 😄 Pronouns: He/Him
-- 🇱🇷  Nationality: Liberian
-- 💻 I'm a FullStack Web and Desktop Developer, Security Analyst.
-- 👨🏾‍🎓 Student at [Rauf Denktas University](https://www.rdu.edu.tr)
-- 👨🏾‍💻 Software Engineering Student
-- 💞️ I’m looking to collaborate on Web and Desktop Applications.
-
 
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=krypt0-baby&show_icons=true&include_all_commits=true&theme=ocean_dark&cache_seconds=3200")
