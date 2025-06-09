@@ -1,0 +1,6 @@
+<svg fill="none" viewBox="0 0 400 1" xmlns="http://www.w3.org/2000/svg">
+	<line x1="0" y1="0.5" x2="400" y2="0.5" stroke="#39FF14" stroke-opacity="0.3"></line>
+	<line x1="150" y1="0.5" x2="250" y2="0.5" stroke="#39FF14">
+		<animate attributeName="stroke-opacity" from="0.3" to="1" dur="1.5s" repeatCount="indefinite"></animate>
+	</line>
+</svg>
