@@ -185,12 +185,13 @@ I'm always open to collaborating on innovative projects. Here’s how I can help
     <td width="50%" valign="top">
       <p align="center">
         <b>Snake Game</b><br>
-        <img src="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/output/snake.svg" alt="Snake animation" />
+        <img src="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/output/github-snake-dark.svg" alt="Snake animation" />
       </p>
     </td>
     <td width="50%" valign="top">
        <p align="center">
-        <b>Pac-Man Game</b><br>
+        <b>Pac-Man Game</b>
+         <br>
         <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/output/pacman-contribution-graph.svg">
