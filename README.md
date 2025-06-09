@@ -75,7 +75,7 @@ I'm always open to collaborating on innovative projects. Here’s how I can help
       <img src="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/master/sleuth_dragon.png" alt="A cybernetic dragon, representing the fusion of AI and security" width="100%"/>
       <br/><br/>
       <a href="https://app.daily.dev/krypt0_baby" target="_blank">
-        <img src="./devcard.png" alt="Fitzgerald Bowier's Dev Card" width="100%"/>
+        <img src="https://github.com/${{ github.repository_owner }}/${{ github.repository_owner }}/blob/main/devcard.png" alt="Fitzgerald Bowier's Dev Card" width="100%"/>
       </a>
     </td>
   </tr>
