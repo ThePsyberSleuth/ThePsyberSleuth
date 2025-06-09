@@ -1,0 +1,55 @@
+# .github/workflows/main.yml
+
+name: Generate and Update GitHub Games
+
+on:
+  # Run automatically every 12 hours to keep the games updated
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual runs from the GitHub Actions tab
+  workflow_dispatch:
+  # Also run on any push to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-games:
+    runs-on: ubuntu-latest
+    permissions:
+      # Required to write to the repository
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Generate the Snake game SVG, creating both light and dark versions
+      - name: Generate GitHub Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          # Your GitHub username is automatically used
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files for light and dark themes
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Generate the Pac-Man game SVG, which also creates light and dark versions
+      - name: Generate GitHub Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # The action automatically creates both light and dark SVGs in the dist folder
+
+      # Commit and push the generated SVG files to the 'output' branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          # The branch to which the files will be pushed
+          target_branch: output
+          # The directory containing the files to be pushed
+          build_dir: dist
+        env:
+          # A token is required to push to the repository
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
