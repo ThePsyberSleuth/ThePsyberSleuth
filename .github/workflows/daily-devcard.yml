@@ -1,6 +1,6 @@
 # .github/workflows/daily-devcard.yml
 
-name: Update daily.dev DevCard
+name: daily.dev DevCard
 
 on:
   # Run automatically every day at midnight
