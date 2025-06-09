@@ -1,0 +1,22 @@
+            - name: @dailydotdev/devcard
+  # You may pin to the exact commit or the version.
+  # uses: dailydotdev/action-devcard@276972279623d2d6dd68aef668fdb75adb3a9d19
+  uses: dailydotdev/action-devcard@3.0.0
+  with:
+    # Your daily.dev user id
+    user_id: 
+    # GitHub Token used to commit the devcard
+    token: # optional, default is ${{ github.token }}
+    # Branch used to commit the devcard
+    commit_branch: # optional, default is 
+    # Commit message
+    commit_message: # optional, default is Update ${filename}
+    # Filename to save devcard to
+    commit_filename: # optional, default is devcard.png
+    # Committer email
+    committer_email: # optional, default is 41898282+github-actions[bot]@users.noreply.github.com
+    # Committer name
+    committer_name: # optional, default is github-actions[bot]
+    # If true, no changes will be made to the repo
+    dryrun: # optional
+          
