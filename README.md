@@ -18,10 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ThePsyberSleuth/count.svg" alt="Visitor Count">
-</p>
-
 <!-- Start of 2-column layout -->
 <table width="100%">
   <tr>
@@ -45,7 +41,7 @@ class Fitzgerald_E_Bowier:
         self.roles = [
             "Software Engineer",
             "AI/ML Developer",
-            "Cybersecurity Specialist"
+            "Cybersecurity Enthusiast"
         ]
         self.education  = "BSc in Software Engineering"
         self.philosophy = "Think, prototype, validate, and iterate.
@@ -70,15 +66,6 @@ I'm always open to collaborating on innovative projects. Here’s how I can help
 - **AI/ML Solutions**: Prototyping and deploying intelligent models and AI-driven features.
 - **DevOps & Cloud Strategy**: Automating CI/CD pipelines and architecting resilient cloud infrastructure.
       
-    </td>
-    <td width="35%" valign="top">
-      <img src="https://raw.githubusercontent.com/ThePsyberSleuth/ThePsyberSleuth/master/sleuth_dragon.png" alt="A cybernetic dragon, representing the fusion of AI and security" width="100%"/>
-      <br/><br/>
-      <a href="https://app.daily.dev/thepsybersleuth" target="_blank">
-        <img src="./devcard.png" alt="Fitzgerald Bowier's Dev Card" width="100%"/>
-      </a>
-    </td>
-  </tr>
 </table>
 <!-- End of 2-column layout -->
 
