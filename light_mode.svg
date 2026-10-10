@@ -35,10 +35,11 @@ text { font: 13px Consolas, Menlo, "Liberation Mono", monospace; }
 <text x="445" y="144" class="fg" xml:space="preserve"><tspan class="key">Role: </tspan><tspan class="muted">........ </tspan>Software Engineer</text>
 <text x="445" y="168" class="fg" xml:space="preserve">              AI/ML Developer</text>
 <text x="445" y="192" class="fg" xml:space="preserve">              Cybersecurity Enthusiast</text>
-<text x="445" y="216" class="fg" xml:space="preserve"><tspan class="key">Degree: </tspan><tspan class="muted">...... </tspan>BSc Software Engineering</text>
-<text x="445" y="240" class="fg" xml:space="preserve"><tspan class="key">Code: </tspan><tspan class="muted">........ </tspan>TypeScript, Python, Shell, C#, Rust</text>
-<text x="445" y="276" class="fg" xml:space="preserve"><tspan class="key">Learning: </tspan><tspan class="muted">.... </tspan>Advanced Kubernetes, MLOps</text>
-<text x="445" y="300" class="fg" xml:space="preserve">              Cloud-Native Security</text>
+<text x="445" y="216" class="fg" xml:space="preserve"><tspan class="key">Degrees: </tspan><tspan class="muted">..... </tspan>BSc Software Engineering</text>
+<text x="445" y="240" class="fg" xml:space="preserve">               MSc. Information Systems Engineering</text>
+<text x="445" y="264" class="fg" xml:space="preserve"><tspan class="key">Code: </tspan><tspan class="muted">........ </tspan>TypeScript, Python, Shell, C#, Rust</text>
+<text x="445" y="288" class="fg" xml:space="preserve"><tspan class="key">Learning: </tspan><tspan class="muted">.... </tspan>Advanced Kubernetes, MLOps</text>
+<text x="445" y="312" class="fg" xml:space="preserve">               Cloud-Native Security</text>
 <text x="445" y="336" class="fg" xml:space="preserve"><tspan class="accent">-- Services </tspan><tspan class="muted">--------------------------------------</tspan></text>
 <text x="445" y="360" class="fg" xml:space="preserve">Full-stack development / Security audits</text>
 <text x="445" y="384" class="fg" xml:space="preserve">AI/ML solutions / DevOps &amp; Cloud</text>

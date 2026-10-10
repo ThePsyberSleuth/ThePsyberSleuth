@@ -17,7 +17,7 @@
 
 Software Engineer · AI/ML Developer · Cybersecurity Enthusiast
 
-- **Education:** BSc in Software Engineering.
+- **Education:** BSc in Software Engineering; MSc. Information Systems Engineering.
 - **GitHub:** Joined 29 October 2022.
 - **Code:** TypeScript, Python, Shell, C#, and Rust appear in my public repositories.
 - **Learning:** Advanced Kubernetes, MLOps, and Cloud-Native Security.
