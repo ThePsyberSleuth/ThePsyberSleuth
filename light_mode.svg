@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title description">
+<title id="title">ThePsyberSleuth — Fitzgerald E. Bowier</title>
+<desc id="description">Terminal-style profile with an ASCII diagram: Try leads to Fail and Fail leads back to Try, each marked x100. Try also leads to Success, marked x1. Software engineer, AI/ML developer, and cybersecurity enthusiast.</desc>
+<style>
+text { font: 13px Consolas, Menlo, "Liberation Mono", monospace; }
+.fg { fill: #24292f; }
+.muted { fill: #57606a; }
+.accent { fill: #0969da; }
+.key { fill: #953800; }
+.success { fill: #1a7f37; }
+.purple { fill: #8250df; }
+</style>
+<rect x="0.5" y="0.5" width="999" height="599" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="45" class="purple" xml:space="preserve">$ keep-going</text>
+<text x="445" y="45" class="accent" xml:space="preserve">thepsybersleuth@github</text>
+<text x="445" y="66" class="muted" xml:space="preserve">--------------------------------------------------------------</text>
+<text x="25" y="104" class="accent" xml:space="preserve">TRY. FAIL. REPEAT.</text>
+<text x="25" y="161" class="muted" xml:space="preserve">             .-- x100 --.</text>
+<text x="25" y="180" class="muted" xml:space="preserve">           .'            `.</text>
+<text x="25" y="199" class="muted" xml:space="preserve">          /                \</text>
+<text x="25" y="218" class="muted" xml:space="preserve">         v                  \</text>
+<text x="25" y="237" class="muted" xml:space="preserve">        <tspan class="accent">Try</tspan>                <tspan class="key">Fail</tspan>        <tspan class="success">Success</tspan></text>
+<text x="25" y="256" class="muted" xml:space="preserve">         |\                 ^             ^</text>
+<text x="25" y="275" class="muted" xml:space="preserve">         | \                /            /</text>
+<text x="25" y="294" class="muted" xml:space="preserve">         |  `.            .'            /</text>
+<text x="25" y="313" class="muted" xml:space="preserve">         |    `-- x100 --'             /</text>
+<text x="25" y="332" class="muted" xml:space="preserve">         |                            /</text>
+<text x="25" y="351" class="muted" xml:space="preserve">          \                          /</text>
+<text x="25" y="370" class="muted" xml:space="preserve">           `.                      .'</text>
+<text x="25" y="389" class="muted" xml:space="preserve">             `-------- x1 --------'</text>
+<text x="25" y="449" class="fg" xml:space="preserve">Think -&gt; Prototype -&gt; Validate -&gt; Iterate</text>
+<text x="25" y="475" class="muted" xml:space="preserve">Code is a step, not the starting line.</text>
+<text x="445" y="96" class="fg" xml:space="preserve"><tspan class="key">Name: </tspan><tspan class="muted">........ </tspan>Fitzgerald E. Bowier</text>
+<text x="445" y="120" class="fg" xml:space="preserve"><tspan class="key">Joined: </tspan><tspan class="muted">...... </tspan>2022-10-29</text>
+<text x="445" y="144" class="fg" xml:space="preserve"><tspan class="key">Role: </tspan><tspan class="muted">........ </tspan>Software Engineer</text>
+<text x="445" y="168" class="fg" xml:space="preserve">              AI/ML Developer</text>
+<text x="445" y="192" class="fg" xml:space="preserve">              Cybersecurity Enthusiast</text>
+<text x="445" y="216" class="fg" xml:space="preserve"><tspan class="key">Degree: </tspan><tspan class="muted">...... </tspan>BSc Software Engineering</text>
+<text x="445" y="240" class="fg" xml:space="preserve"><tspan class="key">Code: </tspan><tspan class="muted">........ </tspan>TypeScript, Python, Shell, C#, Rust</text>
+<text x="445" y="276" class="fg" xml:space="preserve"><tspan class="key">Learning: </tspan><tspan class="muted">.... </tspan>Advanced Kubernetes, MLOps</text>
+<text x="445" y="300" class="fg" xml:space="preserve">              Cloud-Native Security</text>
+<text x="445" y="336" class="fg" xml:space="preserve"><tspan class="accent">-- Services </tspan><tspan class="muted">--------------------------------------</tspan></text>
+<text x="445" y="360" class="fg" xml:space="preserve">Full-stack development / Security audits</text>
+<text x="445" y="384" class="fg" xml:space="preserve">AI/ML solutions / DevOps &amp; Cloud</text>
+<text x="445" y="420" class="fg" xml:space="preserve"><tspan class="accent">-- Contact </tspan><tspan class="muted">---------------------------------------</tspan></text>
+<text x="445" y="444" class="fg" xml:space="preserve"><tspan class="key">Email: </tspan><tspan class="muted">....... </tspan>keats.dev@gmail.com</text>
+<text x="445" y="468" class="fg" xml:space="preserve"><tspan class="key">LinkedIn: </tspan><tspan class="muted">.... </tspan>in/fitzgerald-bowier</text>
+<text x="445" y="492" class="fg" xml:space="preserve"><tspan class="key">Bluesky: </tspan><tspan class="muted">..... </tspan>0x70syb3r5l3u7h.bsky.social</text>
+<text x="445" y="528" class="fg" xml:space="preserve"><tspan class="accent">-- GitHub Stats </tspan><tspan class="muted">----------------------------------</tspan></text>
+<text x="445" y="552" class="fg" xml:space="preserve"><tspan class="key">Repos:</tspan> 50  <tspan class="key">Stars:</tspan> 13  <tspan class="key">Followers:</tspan> 10</text>
+<text x="445" y="576" class="muted" xml:space="preserve">Public data snapshot: 2026-10-10</text>
+<text x="25" y="552" class="purple" xml:space="preserve">Think first. Then code.</text>
+<text x="25" y="576" class="success" xml:space="preserve">One success. Keep trying.</text>
+</svg>
