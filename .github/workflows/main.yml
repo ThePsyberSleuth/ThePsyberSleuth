@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # Generate the Snake game SVG, creating both light and dark versions
       - name: Generate GitHub Snake
